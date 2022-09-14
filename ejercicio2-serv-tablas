@@ -1,0 +1,12 @@
+Soldado (codigo soldado, nombre, apellido1), apellido 2,cd_cuartel(FK),numero(FK),cd_cuerpo(FK)
+
+Cuerpo (cd_cuerpo, denominacion)
+
+Servicio (cd_servido, descripcion)
+
+Compañia (numero, actividad_principal)
+
+Cuantel (cd_cuartel, nombre)
+
+Sol.servicio (fecha, cd_soldado, cd_servicio) 
+Sol.graduacion () fecha_inico, cd_soldado)
