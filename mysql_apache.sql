@@ -1,0 +1,7 @@
+CREATE USER 'Asir2' IDENTIFIED BY 'Almi.2022';
+GRANT ALL PRIVILEGES ON * . * TO 'Asir2';
+FLUSH PRIVILEGES;
+
+
+
+ /etc/php/8.1/apache2/php.ini 
